@@ -1,0 +1,8 @@
+http://public.thepsi.ie/dialog.php?target=publicpharmacies&Mode=view&PublicPharmaciesId=28
+http://public.thepsi.ie/dialog.php?target=publicpharmacies&Mode=view&PublicPharmaciesId=83
+http://public.thepsi.ie/dialog.php?target=publicpharmacies&Mode=view&PublicPharmaciesId=225
+http://public.thepsi.ie/dialog.php?target=publicpharmacies&Mode=view&PublicPharmaciesId=964
+http://public.thepsi.ie/dialog.php?target=publicpharmacies&Mode=view&PublicPharmaciesId=1455
+http://public.thepsi.ie/dialog.php?target=publicpharmacies&Mode=view&PublicPharmaciesId=12004
+http://public.thepsi.ie/dialog.php?target=publicpharmacies&Mode=view&PublicPharmaciesId=12536
+http://public.thepsi.ie/dialog.php?target=publicpharmacies&Mode=view&PublicPharmaciesId=12655
