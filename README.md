@@ -6,11 +6,11 @@ PhantonJS scripts to scrape PSI Web site to feed pharmacy database into SQL Azur
 
 - Setup a valid cookie, as shown on code snippet below
 
-'phantom.addCookie({
+`phantom.addCookie({
     'name': 'PHPSESSID',
     'value': 'vk9vfd0ea5nfohhq32fv7sq442',
     'domain': 'public.thepsi.ie'
-});'
+});`
 
 
 
