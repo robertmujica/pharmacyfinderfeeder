@@ -2,6 +2,12 @@
 
 PhantonJS scripts to scrape PSI Web site to feed pharmacy database into SQL Azure database.
 
+# Technology used
+
+- PhantonJS
+- NodeJS
+- Javascript
+
 # Implementation Details
 
 - Setup a valid cookie, as shown on code snippet below
